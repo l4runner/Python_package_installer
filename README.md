@@ -32,12 +32,11 @@
 
 ```
 .
-├── install_with_mirror.py   # GUI 主程序（推荐入口）
+├── install_with_mirror.py   # GUI 主程序
 ├── install_cli.py          # 命令行版（支持 -r requirements.txt）
 ├── config.py               # 共用配置（镜像、包组、映射）
 ├── pip_core.py             # 核心安装与验证逻辑
 ├── find_python.py          # Python 环境探测工具
-├── check_env.py            # 环境检查脚本
 └── README.md
 ```
 
