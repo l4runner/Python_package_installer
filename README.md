@@ -36,7 +36,6 @@
 ├── install_cli.py          # 命令行版（支持 -r requirements.txt）
 ├── config.py               # 共用配置（镜像、包组、映射）
 ├── pip_core.py             # 核心安装与验证逻辑
-├── find_python.py          # Python 环境探测工具
 └── README.md
 ```
 
